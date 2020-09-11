@@ -1,0 +1,21 @@
+.container h3 {
+    margin-top: 2rem;
+}
+.container form {
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+    align-items: center;
+}
+.form-group {
+    width: 100%;
+}
+.form-group input {
+    width: 100%;
+}
+.form-group select {
+    width: 100%;
+}
+.form-group textarea {
+    width: 100%;
+}
